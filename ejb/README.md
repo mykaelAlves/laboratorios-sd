@@ -28,3 +28,5 @@
 ![alt text](imgs/08.png)
 
 ## 8. Testando o EJB
+
+![alt text](imgs/09.png)
